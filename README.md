@@ -26,7 +26,7 @@
 
 [![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz)](https://github.com/Gamattowicz/github-readme-stats)
 
-[![Spotify](https://githubspotifyplayingnow-8x8cu58t0-gamattowicz.vercel.app//api/spotify)](https://open.spotify.com/user/gamattowicz)
+[![Spotify](https://githubspotifyplayingnow.vercel.app//api/spotify)](https://open.spotify.com/user/gamattowicz)
 
 
 
