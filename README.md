@@ -4,7 +4,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10)](https://github.com/Gamattowicz)
 
-[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gamattowicz)](https://github.com/Gamattowicz)
+[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ggamattowicz)](https://github.com/Gamattowicz)
 
 
 ### My skills and tools
@@ -27,7 +27,7 @@
 
 <br>
 
-[![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz)](https://github.com/Gamattowicz/github-readme-stats)
+[![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz)](https://github.com/Gamattowicz)
 
 [![Spotify](https://githubspotifyplayingnow.vercel.app/api/spotify)](https://open.spotify.com/user/gamattowicz)
 
