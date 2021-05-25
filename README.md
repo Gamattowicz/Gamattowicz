@@ -2,7 +2,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=brightgreen" alt="Gamattowicz" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10)](https://github.com/Gamattowicz)
+
+[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gamattowicz)](https://github.com/Gamattowicz)
+
 
 ### My skills and tools
 
