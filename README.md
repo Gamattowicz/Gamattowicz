@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=brightgreen" alt="Gamattowicz" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10)](https://github.com/Gamattowicz)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=great-gatsby))](https://github.com/Gamattowicz)
 
-[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ggamattowicz)](https://github.com/Gamattowicz)
+[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz)](https://github.com/Gamattowicz)
 
 
 ### My skills and tools
