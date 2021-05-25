@@ -2,10 +2,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=brightgreen" alt="Gamattowicz" /> </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=great-gatsby)](https://github.com/Gamattowicz)
+### Some stats
 
-[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=great-gatsby)](https://github.com/Gamattowicz)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamattowicz&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
 
+[![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide=stars,issues,contribs&hide_border=true)](https://github.com/Gamattowicz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/Gamattowicz)
+
+[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/Gamattowicz)
+
+[![Spotify](https://githubspotifyplayingnow.vercel.app/api/spotify)](https://open.spotify.com/user/gamattowicz)
 
 ### My skills and tools
 
@@ -24,13 +31,6 @@
 <code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
 <code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
 <code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-
-<br>
-
-[![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide=stars,issues,contribs)](https://github.com/Gamattowicz)
-
-[![Spotify](https://githubspotifyplayingnow.vercel.app/api/spotify)](https://open.spotify.com/user/gamattowicz)
-
 
 
 **Thanks for checking my GitHub Profile!**
