@@ -4,8 +4,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=brightgreen" alt="Gamattowicz" /> </p>
 
-### Some stats
+---
 
+### GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamattowicz&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
 
@@ -15,7 +16,13 @@
 
 [![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/Gamattowicz)
 
+---
+
+### Spotify Playing
+
 [![Spotify](https://githubspotifyplayingnow.vercel.app/api/spotify)](https://open.spotify.com/user/gamattowicz)
+<br/>
+---
 
 
 ### My skills and tools
