@@ -2,26 +2,39 @@
 
 ## Hi, I'm Gamattowicz
 
-<img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=brightgreen" alt="Gamattowicz" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Gamattowicz&color=blue" alt="Gamattowicz" /> </p>
 
 ---
 
-### GitHub Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Gamattowicz&theme=great-gatsby&hide_border=true)](https://git.io/streak-stats)
-
-[![Gamattowicz's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide=stars,issues,contribs&hide_border=true)](https://github.com/Gamattowicz)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/Gamattowicz)
-
-[![Gamattowicz's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=great-gatsby&hide_border=true)](https://github.com/Gamattowicz)
+<h2 align="center">GitHub Stats</h2>
+<br>
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/Gamattowicz" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api?username=Gamattowicz&show_icons=true&theme=react&hide_border=true" alt="Gamattowicz" />
+    </a>
+    <a href="https://github.com/Gamattowicz" title="Go to Source">
+      <img align="right" width=396 src="http://github-readme-streak-stats.herokuapp.com?user=Gamattowicz&theme=react&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/Gamattowicz" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-stats.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=react&hide_border=true" alt="Gamattowicz" />
+    </a>
+    <a href="https://github.com/Gamattowicz" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=react&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br><br>
+  <img src="https://activity-graph.herokuapp.com/graph?username=Gamattowicz&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ---
 
 ### Spotify Playing
 
 [![Spotify](https://githubspotifyplayingnow.vercel.app/api/spotify)](https://open.spotify.com/user/gamattowicz)
-<br/>
+<br>
 ---
 
 
