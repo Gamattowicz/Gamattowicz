@@ -23,7 +23,7 @@
       <img align="left" width=396 src="https://github-readme-stats-gamattowicz.vercel.app/api/wakatime?username=Gamattowicz&show_icons=true&theme=react&hide_border=true" alt="Gamattowicz" />
     </a>
     <a href="https://github.com/Gamattowicz" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=react&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats-gamattowicz.vercel.app/api/top-langs/?username=Gamattowicz&layout=compact&langs_count=10&show_icons=true&theme=react&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br><br>
