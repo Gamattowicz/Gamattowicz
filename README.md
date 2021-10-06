@@ -14,10 +14,10 @@ I've been learning programming for 1.5 years. During this time I have developed 
 <ul>
 <li><a href="https://github.com/Gamattowicz/Flashcard"> Flashcard app</a></li>
 <li><a href="https://resume-builder-django.herokuapp.com/"> Resume Builder</a></li>
-<li><a href="https://my-timetracker.herokuapp.com/">project management app</a></li>
+<li><a href="https://my-timetracker.herokuapp.com/">Project management app</a></li>
 <li><a href="https://github.com/Gamattowicz/Snake">Snake game</a></li>
 </ul>
-My main programming language is Python (mostly Django), but I am also familiar with JavaScript with ReactJS.
+My main programming language is Python (mostly Django), but I am also familiar with JavaScript and ReactJS.
 <br>
 I'm currently learning Docker and looking for my first commercial developer job.
 
