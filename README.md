@@ -10,7 +10,8 @@
 ---
 My name is Przemysław Romańczuk.
 <br>
-I am a programmer who has gained skills in developing web applications on both the backend and frontend side through creating my own hobby projects. I have two years of commercial experience. My main technologies are: Python with web frameworks (Django, FastAPI and Flask) and JavaScript with ReactJS (Next.js). In addition, my knowledge includes SQL databases and the area of cyber security adds a deeper understanding of project issues. I have had the opportunity to work with Google Cloud Chronicle tools and Natural language processing.
+I am a programmer who has gained skills in developing web applications on both the backend and frontend side through creating my own hobby projects. I have two years of commercial experience. My main technologies are: Python with web frameworks (Django, FastAPI and Flask) and JavaScript with ReactJS (Next.js). In addition, my knowledge includes SQL databases and the area of cyber security adds a deeper understanding of project issues. I have had the opportunity to work with Google Cloud Chronicle tools and Natural language processing.  
+I run [a tech blog](https://gamattowicz.vercel.app/) where I share insights and tips on programming trends and my personal coding experiences. Check out my articles for a dose of inspiration and knowledge!
 <ul>
 <li><a href="https://flashcard-gamattowicz.herokuapp.com/">Flashcard</a> - Full-Stack application for memorizing vocabulary developed using Django REST Framework and RestJS</li>
 <li><a href="https://resume-builder-django.herokuapp.com/">Resume Builder</a> - Web application for creating a resume developed in Django</li>
